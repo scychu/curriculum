@@ -41,4 +41,5 @@ Send us a link to your portfolio site so we can show others! Submit a link to yo
 * [Ahmad Ali's Solution - Live website](https://www.ahmad-ali.co.uk/)
 * [barrysweeney's Solution -Source Code](https://github.com/barrysweeney/personal-site) - [Live website](https://www.barrysweeney.com/)
 * [Tim Kelly's Solution - Source Code](https://github.com/timkellytk) - [Live website](https://timkelly.dev/)
+* [Scy's Solution - Source Code](https://gitlab.com/scy_chu/portfolio) - [Live website](https://scychu-portfolio.netlify.app/)
 </details>
